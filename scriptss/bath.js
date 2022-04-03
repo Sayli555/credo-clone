@@ -143,7 +143,7 @@ function renderProducts(Products) {
         but.textContent = " Add to cart"
         but.onclick = () => {
             //
-            // let arr = JSON.parse(localStorage.getItem("Cart_Items")) || []
+            let arr = JSON.parse(localStorage.getItem("Cart_Items")) || []
             arr.push(element)
 
             localStorage.setItem("Cart_Items", JSON.stringify(arr))

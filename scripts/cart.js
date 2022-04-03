@@ -11,7 +11,7 @@ function displayCart(cartitems) {
 
         var td1 = document.createElement("td")
         var img = document.createElement("img")
-        img.setAttribute("src", data.imgUrl1)
+        img.setAttribute("src", data.imageurl)
         td1.append(img)
 
 
