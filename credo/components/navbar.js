@@ -5,7 +5,7 @@ function navbar(){
         <div id="blueline">FREE SHIPPING ON ALL ORDERS| details</div>
         <div id="whitline">
             <div id="lefttt"><a id="asp"  href="">Stores & Services</a>&nbsp;&nbsp;&nbsp;&nbsp;<a id="asp" href="">Rewards</a>&nbsp;&nbsp;&nbsp;&nbsp;<a id="asp" href="">ChatLive</a></div>
-            <div id="medium"><a href="home.html"><img src="https://cdn.shopify.com/s/files/1/0637/6147/files/logo_556396e7-3386-4a9c-8dfc-b9250175595e.png?height=628&pad_color=ffffff&v=1523377568&width=1200" width="130px" height="70px"alt=""></a></div>
+            <div id="medium"><a href="index.html"><img src="https://cdn.shopify.com/s/files/1/0637/6147/files/logo_556396e7-3386-4a9c-8dfc-b9250175595e.png?height=628&pad_color=ffffff&v=1523377568&width=1200" width="130px" height="70px"alt=""></a></div>
             <div id="righttt"><img src="https://www.freeiconspng.com/thumbs/search-icon-png/search-icon-png-1.png" width="50px" height="50px" alt=""></div>
         
           <input type="text" placeholder="search" id="searchbar" > <a href = "signup.html"><img id="aclogo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThRGcLNaorK4esT7jd4P_MfhhrzowqyTHRqA8Ku2vZW7KNrswJYoA0CcmhlTTPsWSQZ5I&usqp=CAU" width="30px" height="30px"alt=""></a>
