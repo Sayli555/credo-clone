@@ -40,7 +40,7 @@ app.use("/baths",bathController)
 
 
 
-app.listen(5000,async function(){
+app.listen(process.env.PORT||5000,async function(){
     try{
 
         console.log("server start 5000 port")
