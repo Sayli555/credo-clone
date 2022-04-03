@@ -17,7 +17,7 @@ function displayCart(cartitems) {
 
 
         var td2 = document.createElement("td")
-        td2.textContent = data.name;
+        td2.textContent = data.name;q
 
         var td3 = document.createElement("td")
         td3.textContent = "1";
